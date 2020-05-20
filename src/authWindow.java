@@ -13,6 +13,7 @@ public class authWindow {
 		driver.get("https://admin:admin@the-internet.herokuapp.com/");
 		driver.findElement(By.xpath("//*[text() = 'Basic Auth']")).click();
 		System.out.println("git hands on");
+		System.out.println("git 2nd commit");
 	}
 
 }
