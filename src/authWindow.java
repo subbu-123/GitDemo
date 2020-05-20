@@ -14,6 +14,7 @@ public class authWindow {
 		driver.findElement(By.xpath("//*[text() = 'Basic Auth']")).click();
 		System.out.println("git hands on");
 		System.out.println("git 2nd commit");
+		System.out.println("git 3rd commit");
 	}
 
 }
